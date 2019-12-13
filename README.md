@@ -1,8 +1,8 @@
 # Automation on search engine GUI
 
-This java application uses chromedriver to automate bing and google search engine GUI 
+This java application uses selenium to automate bing and google search engine GUI 
 and print the total search results returned by  the chosen search engine as well as the top N URLs in the results 
-page(only 1st page at the moment) using selenium.
+page(only 1st page at the moment).
 
 #### Note that this currently only works on Mac os. To execute this on Linux or Windows os, download the chrome driver for the respective os. Change the path of the chrome driver in search.java file and recreate a jar.
 
